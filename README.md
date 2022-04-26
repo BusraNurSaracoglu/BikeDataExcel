@@ -4,6 +4,6 @@ You are working as a data scientist in a bicycle rental company. The company’s
 -There is neither rain nor snow. 
 -Consider the 4 hour period starting with the average peak hour for your model evaluations.
 
-![plot](./BusraNurSaracoglu/BikeDataExcel/karşılaştırma.png)
+![image](https://user-images.githubusercontent.com/91855028/165248861-60fdd3bd-9e4c-4a70-b77f-e2d119fb0fbc.png)
 
 
