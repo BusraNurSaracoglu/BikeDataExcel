@@ -3,3 +3,7 @@ You are working as a data scientist in a bicycle rental company. The company’s
 -Temperature is more than 20 degrees. 
 -There is neither rain nor snow. 
 -Consider the 4 hour period starting with the average peak hour for your model evaluations.
+
+![plot](./BusraNurSaracoglu/BikeDataExcel/karşılaştırma.png)
+
+
